@@ -1,3 +1,4 @@
+# Assignment2 - Processor usage program
 import psutil
 
 a = 0
